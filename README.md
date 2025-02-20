@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white" height="35" alt="bluesky logo"  />
 </div>
 
 ###
@@ -81,7 +80,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://animesher.com/orig/1/139/1397/13979/animesher.com_madoka-magica-demon-magical-girl-1397992.gif"  />
+  <img height="200" src="https://postimg.cc/H8M6Qmdq"  />
 </div>
 
 ###
