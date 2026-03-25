@@ -54,8 +54,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ecztassy.Ecztassy&left_color=purple&right_color=rebeccapurple"  />
 </div>
