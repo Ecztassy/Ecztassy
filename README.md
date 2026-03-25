@@ -44,13 +44,13 @@
 
 ###
 
-<img align="right" height="165" src="https://steamuserimages-a.akamaihd.net/ugc/939458259777232217/8CA966382198428976FA458A4A9E44893F433CD3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
 <div align="center">
   <img height="200" src="https://i.postimg.cc/mkXKWZqg/animesher-com-madoka-magica-demon-magical-girl-1397992.gif"  />
 </div>
+
+###
+
+<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/939458259777232217/8CA966382198428976FA458A4A9E44893F433CD3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
