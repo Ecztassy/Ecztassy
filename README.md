@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ecztassy and I'm a Junior Dev, from Portugal to the world :P</h2>
+<h2 align="left">HAIII! My name is Ecztassy and I program as a hobby, from Portugal to the world :P</h2>
 
 ###
 
